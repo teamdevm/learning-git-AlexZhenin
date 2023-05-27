@@ -1,0 +1,6 @@
+[run]
+source = project_zhenin
+omit = 
+    tests/*
+    autoapp.py
+

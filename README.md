@@ -1,3 +1,5 @@
+new text
+
 # Урок по Git и GitHub
 
 ## Введение
